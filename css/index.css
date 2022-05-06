@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+.navbar{
+    height: 50px;
+    width: auto;
+    background-color: rgb(14, 14, 14);
+}
+.navbar ul{
+    text-decoration: none;
+    padding-top: 15px;
+   
+
+}
+.navbar ul li {
+    color: white;
+    text-decoration: none;
+    display: inline;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+}
+.contf {
+    display: flex;
+}
+.bgimg  img{
+    width: 400px;
+    /* height: 800px; */
+    
+}
+.cont p {
+    color: white;
+}
